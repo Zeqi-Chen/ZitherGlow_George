@@ -4,9 +4,13 @@ An intuitive, rule-bound generative MIDI assistant tailored for traditional Chin
 
 ![ZitherGlow Demo](demo.gif)
 
-> 🔊 **Listen with Sound:** Click the player below to watch the full system demonstration with crisp audio.
+<details>
+<summary>🔊 <b>Click here to expand and watch the video demo with high-fidelity audio</b></summary>
+<br>
 
 https://github.com/user-attachments/assets/7db5f246-3589-45db-afa2-54db7b8de236
+
+</details>
 
 ---
 
