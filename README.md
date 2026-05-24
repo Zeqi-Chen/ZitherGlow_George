@@ -4,8 +4,8 @@ An intuitive, rule-bound generative MIDI assistant tailored for traditional Chin
 
 ![ZitherGlow Demo](demo.gif)
 
-> 🔊 **Note:** GIF animations are muted by default. 
-> To watch the **Full Demo with Crystal-Clear Audio**, click here: **[🎬 Watch the Video Demo with Sound](./video_demo.mov)**
+> 🔊 **Listen with Sound:** Click the player below to watch the full system demonstration with crisp audio.
+https://github.com/user-attachments/assets/7db5f246-3589-45db-afa2-54db7b8de236
 
 ---
 
