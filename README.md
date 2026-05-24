@@ -46,7 +46,7 @@ Ensure you have the core MIDI communication wrappers installed. Open your Termin
 
 ### 2. Setting up Logic Pro
 1. Open Logic Pro and create a new project.
-2. Add a new Software Instrument Track and load the built-in Guzheng (located under World -> Chinese).
+2. Add a new Software Instrument Track and load the built-in Guzheng (located under World -> Stringed).
 3. Important: Click and highlight the Guzheng track header so it is active and armed to receive MIDI signals.
 
 ### 3. Running the Generator
