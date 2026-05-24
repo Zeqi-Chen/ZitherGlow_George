@@ -2,6 +2,11 @@
 
 An intuitive, rule-bound generative MIDI assistant tailored for traditional Chinese instruments (such as the Guzheng). Built specifically for Logic Pro by a Computer Science student with a passion for music production.
 
+![ZitherGlow Demo](demo.gif)
+
+> 🔊 **Note:** GIF animations are muted by default. 
+> To watch the **Full Demo with Crystal-Clear Audio**, click here: **[🎬 Watch the Video Demo with Sound](./video_demo.mov)**
+
 ---
 
 ## 🎵 Behind the Project: The "Why"
