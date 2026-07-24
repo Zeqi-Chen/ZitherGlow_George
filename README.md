@@ -1,4 +1,4 @@
-# 🏮 ZitherGlow: A Pentatonic MIDI AI Generator for Logic Pro
+# 🏮 ZitherGlow: A Pentatonic MIDI Generator for Logic Pro
 
 An intuitive, rule-bound generative MIDI assistant tailored for traditional Chinese instruments (such as the Guzheng). Built specifically for Logic Pro by a Computer Science student with a passion for music production.
 
@@ -20,17 +20,17 @@ As a CS sophomore and an avid Logic Pro user, I’ve always admired Logic's **"S
 
 This bottleneck became especially frustrating within my own cultural roots: **Traditional Chinese Instruments**. Logic Pro’s built-in instruments (like the Guzheng and Pipa) sound beautiful, but they lack advanced, intelligent tools to spark instant inspiration or automate authentic, flowing performance techniques.
 
-With the massive rise of Generative AI platforms like **Suno** and **XStudio**, I realized that AI-assisted composition is no longer the future—it is the present. Driven by this industry trend, I wanted to combine my coding knowledge with my musical instincts. After researching system-level MIDI routing, I developed **ZitherGlow**—a lightweight, zero-latency "AI Session Musician" that sits right inside my terminal, streaming authentic pentatonic inspiration straight into Logic Pro.
+With the rise of generative music platforms like **Suno** and **XStudio**, both of which I enjoy experimenting with, I became interested in how software could support composition in a more hands-on way. Driven by that idea, I wanted to combine my coding knowledge with my musical instincts. After researching system-level MIDI routing, I developed **ZitherGlow**—a lightweight, zero-latency "MIDI Session Musician" that sits right inside my terminal, streaming pentatonic inspiration straight into Logic Pro.
 
 ---
 
 ## ✨ Features & Technical Highlights
 
-Instead of deploying heavy, uncontrollable deep-learning models, **ZitherGlow** utilizes elegant, rule-bound algorithms to ensure 100% musical coherence while keeping resource usage close to zero.
+Instead of deploying heavy, uncontrollable deep-learning models, **ZitherGlow** uses lightweight, rule-bound algorithms to keep generated notes within the selected musical constraints while keeping resource usage close to zero.
 
 *   **Scale Lock Mechanism:** Constraints random mathematical inputs into traditional Chinese pentatonic scales (e.g., *Gong Mode* for bright, epic/fantasy vibes, or *Yu Mode* for melancholic, cinematic/wuxia aesthetics). **Result: Zero wrong notes.**
 *   **Humanization Engine:** Simulates real-world finger plucking by applying normal-distribution randomization to MIDI `velocity` (dynamics) and `micro-timing`.
-*   **Musical "Rest" (留白) Logic:** Integrates traditional Chinese musical spacing. The AI dynamically calculates probability to skip notes, letting string resonances ring out naturally instead of firing notes continuously like a machine.
+*   **Musical "Rest" (留白) Logic:** Integrates traditional Chinese musical spacing. The generator uses probability-based logic to skip notes, letting string resonances ring out naturally instead of firing notes continuously like a machine.
 *   **Real-time DAW Capture:** Generates standard MIDI protocols natively on macOS. When Logic Pro's record button is pressed, the streamed live improvisation instantly converts into editable MIDI Regions on the timeline.
 
 ---
