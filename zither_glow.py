@@ -6,7 +6,7 @@ PORT_NAME = 'ZitherGlow_Port'
 
 def main():
     print("==================================================")
-    print("   ZitherGlow: A Pentatonic MIDI AI Generator     ")
+    print("      ZitherGlow: A Pentatonic MIDI Generator     ")
     print("          Created by Zeqi Chen (George)           ")
     print("==================================================")
 
@@ -48,7 +48,7 @@ def main():
     try:
         midi_output = mido.open_output(PORT_NAME, virtual=True)
         print("\n==================================================")
-        print(f"STATUS: AI Player is online via '{PORT_NAME}'")
+        print(f"STATUS: MIDI Player is online via '{PORT_NAME}'")
         print("ACTION: Switch to Logic Pro Guzheng track now.")
         print("        Press Logic's RECORD button (R) to capture.")
         print("        Press Ctrl+C in Terminal to STOP anytime.")
